@@ -1,0 +1,7 @@
+cd explorealaska-wordpress-theme
+git init
+git add .
+git commit -m "Initial Explore Alaska WordPress theme"
+git branch -M main
+git remote add origin https://github.com/LucasObtuse/explorealaska-wordpress-theme.git
+git push -u origin main
